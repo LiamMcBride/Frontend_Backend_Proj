@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body {
+    /* background-color: #5CDB95; */
+    background-color: #6CEEEE;
+
+}
+
+.navDiv {
+    /* background-color: #4C5A52; */
+    background-color: #6CEEEE;
+    padding: 10px;
+    margin: 2px;
+    box-shadow: 10px, 4px, black;
+}
+
+.divCard{
+    padding: 10px;
+    margin: 2px;
+    box-shadow: 10px, 4px, black;
+}
+
+.divCardBlurred{
+    padding: 10px;
+    margin: 2px;
+    box-shadow: 10px, 4px, black;
+    filter: blur(2px);
+}
+
+.navP {
+    /* color: #05386B; */
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#div1, #div2{
+    margin: 10px
+}
+
+p {
+    font-size: 1rem;
+    pointer-events: none;
+}
+
+.submitCell {
+    padding-top: 10px;
+    font-size: 1rem;
+}
+
